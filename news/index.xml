@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Jungong Han</title>
+    <link>https://jungonghan.github.io/news/</link>
+      <atom:link href="https://jungonghan.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>News</title>
+      <link>https://jungonghan.github.io/news/</link>
+    </image>
+    
+  </channel>
+</rss>
