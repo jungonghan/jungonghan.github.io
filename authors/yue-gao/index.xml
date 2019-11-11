@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yue Gao | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/yue-gao/</link>
+      <atom:link href="https://jungonghan.github.io/authors/yue-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yue Gao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Mar 2018 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Yue Gao</title>
+      <link>https://jungonghan.github.io/authors/yue-gao/</link>
+    </image>
+    
+    <item>
+      <title>Discrete Probability Distribution Prediction of Image Emotions With Shared Sparse Learning</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18taffc/</link>
+      <pubDate>Wed, 07 Mar 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18taffc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Emotion Recognition by Personality-aware High-order Learning of Physiological Signals</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tomm/</link>
+      <pubDate>Wed, 07 Mar 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning With Transferred Samples</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17access/</link>
+      <pubDate>Fri, 07 Jul 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning With Transferred Samples</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip5/</link>
+      <pubDate>Fri, 07 Jul 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

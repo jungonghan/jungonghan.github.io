@@ -5,12 +5,28 @@
     <link>https://jungonghan.github.io/categories/</link>
       <atom:link href="https://jungonghan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2019 14:57:19 +0000</lastBuildDate>
     <image>
       <url>https://jungonghan.github.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://jungonghan.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>Object Recognition and Classification</title>
+      <link>https://jungonghan.github.io/categories/object-recognition-and-classification/</link>
+      <pubDate>Sat, 07 Dec 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/categories/object-recognition-and-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Search Similarity</title>
+      <link>https://jungonghan.github.io/categories/learning-to-search-similarity/</link>
+      <pubDate>Sun, 07 Apr 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/categories/learning-to-search-similarity/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

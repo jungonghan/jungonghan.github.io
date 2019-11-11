@@ -5,7 +5,7 @@
     <link>https://jungonghan.github.io/authors/gengshen-wu/</link>
       <atom:link href="https://jungonghan.github.io/authors/gengshen-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Gengshen Wu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 14:57:19 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Nov 2018 14:57:19 +0000</lastBuildDate>
     <image>
       <url>https://jungonghan.github.io/img/icon-192.png</url>
       <title>Gengshen Wu</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Joint Image-Text Hashing for Large-Scale Cross-Media Retrieval Using Self-Supervised Deep Learning</title>
-      <link>https://jungonghan.github.io/publication/my-publicatioin/19tie/</link>
-      <pubDate>Thu, 07 Nov 2019 14:57:19 +0000</pubDate>
-      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tie/</guid>
+      <title>Unsupervised deep video hashing via balanced code for large-scale video retrieval</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tnnls/</link>
+      <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tnnls/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Unsupervised deep video hashing via balanced code for large-scale video retrieval</title>
-      <link>https://jungonghan.github.io/publication/my-publicatioin/18tip/</link>
-      <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
-      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip/</guid>
+      <title>Joint Image-Text Hashing for Large-Scale Cross-Media Retrieval Using Self-Supervised Deep Learning</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tie/</link>
+      <pubDate>Sun, 07 Oct 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tie/</guid>
       <description></description>
     </item>
     

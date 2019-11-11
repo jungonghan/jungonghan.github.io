@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongxun Yao | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/hongxun-yao/</link>
+      <atom:link href="https://jungonghan.github.io/authors/hongxun-yao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongxun Yao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Mar 2018 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Hongxun Yao</title>
+      <link>https://jungonghan.github.io/authors/hongxun-yao/</link>
+    </image>
+    
+    <item>
+      <title>Discrete Probability Distribution Prediction of Image Emotions With Shared Sparse Learning</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18taffc/</link>
+      <pubDate>Wed, 07 Mar 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18taffc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

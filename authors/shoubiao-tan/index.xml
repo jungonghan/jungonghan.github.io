@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shoubiao Tan | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/shoubiao-tan/</link>
+      <atom:link href="https://jungonghan.github.io/authors/shoubiao-tan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shoubiao Tan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Feb 2018 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Shoubiao Tan</title>
+      <link>https://jungonghan.github.io/authors/shoubiao-tan/</link>
+    </image>
+    
+    <item>
+      <title>Dense Invariant Feature-Based Support Vector Ranking for Cross-Camera Person Reidentification</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tcsvt2/</link>
+      <pubDate>Wed, 07 Feb 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tcsvt2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

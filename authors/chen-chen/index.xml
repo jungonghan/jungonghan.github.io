@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen Chen | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/chen-chen/</link>
+      <atom:link href="https://jungonghan.github.io/authors/chen-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Sep 2018 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Chen Chen</title>
+      <link>https://jungonghan.github.io/authors/chen-chen/</link>
+    </image>
+    
+    <item>
+      <title>Gabor Convolutional Networks</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tip3/</link>
+      <pubDate>Fri, 07 Sep 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Fisher discriminant learning for mobile hand gesture recognition</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18pr/</link>
+      <pubDate>Mon, 07 May 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18pr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Constrained Correlation Filter</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tip5/</link>
+      <pubDate>Tue, 07 Nov 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action Recognition Using 3D Histograms of Texture and A Multi-class Boosting Classifier</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip4/</link>
+      <pubDate>Sat, 07 Oct 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

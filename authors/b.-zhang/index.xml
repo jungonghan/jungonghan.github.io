@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Zhang | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/b.-zhang/</link>
+      <atom:link href="https://jungonghan.github.io/authors/b.-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2019 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>B. Zhang</title>
+      <link>https://jungonghan.github.io/authors/b.-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Memory Attention Networks for Skeleton-based Action Recognition</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19pami2/</link>
+      <pubDate>Sat, 07 Dec 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19pami2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulated Convolutional Networks</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19pami1/</link>
+      <pubDate>Sat, 07 Dec 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19pami1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hubert Shum | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/hubert-shum/</link>
+      <atom:link href="https://jungonghan.github.io/authors/hubert-shum/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hubert Shum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Oct 2018 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Hubert Shum</title>
+      <link>https://jungonghan.github.io/authors/hubert-shum/</link>
+    </image>
+    
+    <item>
+      <title>Action Recognition From Arbitrary Views Using Transferable Dictionary Learning</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tip4/</link>
+      <pubDate>Sun, 07 Oct 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning to Search Similarity | Jungong Han</title>
+    <link>https://jungonghan.github.io/categories/learning-to-search-similarity/</link>
+      <atom:link href="https://jungonghan.github.io/categories/learning-to-search-similarity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning to Search Similarity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Learning to Search Similarity</title>
+      <link>https://jungonghan.github.io/categories/learning-to-search-similarity/</link>
+    </image>
+    
+    <item>
+      <title>Attribute-Guided Network for Cross-Modal Zero-Shot Hashing</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tip/</link>
+      <pubDate>Sun, 07 Apr 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Image-Text Hashing for Large-Scale Cross-Media Retrieval Using Self-Supervised Deep Learning</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tie/</link>
+      <pubDate>Sun, 07 Oct 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Trivial Solution and High Correlation Problems in Deep Supervised Hashing</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18aaai/</link>
+      <pubDate>Sun, 07 Jan 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-View Retrieval via Probability-Based Semantics-Preserving Hashing</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tc/</link>
+      <pubDate>Thu, 07 Dec 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Hash with Optimized Anchor Embedding for Scalable Retrieval</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip/</link>
+      <pubDate>Tue, 07 Mar 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Discrete Hashing for Scalable Cross-Modality Similarity Retrieval</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip2/</link>
+      <pubDate>Sat, 07 Jan 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixed-Reality System for Broadcasting Sports Video to Mobile Devices</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/11tm/</link>
+      <pubDate>Mon, 07 Feb 2011 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/11tm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadcast Court-Net Sports Video Analysis Using Fast 3-D Camera Modeling</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/08tcsvt/</link>
+      <pubDate>Fri, 07 Nov 2008 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/08tcsvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time video content analysis tool for consumer media storage system</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/08tce/</link>
+      <pubDate>Mon, 07 Aug 2006 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/08tce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

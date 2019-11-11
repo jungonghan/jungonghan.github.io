@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaoqun Chu | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/chaoqun-chu/</link>
+      <atom:link href="https://jungonghan.github.io/authors/chaoqun-chu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chaoqun Chu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2019 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Chaoqun Chu</title>
+      <link>https://jungonghan.github.io/authors/chaoqun-chu/</link>
+    </image>
+    
+    <item>
+      <title>DECODE: Deep Confidence Network for Robust Image Classification</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tip3/</link>
+      <pubDate>Wed, 07 Aug 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tip3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

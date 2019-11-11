@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Memory Attention Networks for Skeleton-based Action Recognition</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19pami2/</link>
+      <pubDate>Sat, 07 Dec 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19pami2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulated Convolutional Networks</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19pami1/</link>
+      <pubDate>Sat, 07 Dec 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19pami1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Employing deep part-object relationships for salient object detection</title>
       <link>https://jungonghan.github.io/publication/my-publicatioin/19iccv/</link>
       <pubDate>Thu, 07 Nov 2019 14:57:19 +0000</pubDate>
@@ -37,18 +53,18 @@
     </item>
     
     <item>
-      <title>Joint Image-Text Hashing for Large-Scale Cross-Media Retrieval Using Self-Supervised Deep Learning</title>
-      <link>https://jungonghan.github.io/publication/my-publicatioin/19tie/</link>
-      <pubDate>Thu, 07 Nov 2019 14:57:19 +0000</pubDate>
-      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aggregation signature for small object tracking</title>
       <link>https://jungonghan.github.io/publication/my-publicatioin/19tip/</link>
       <pubDate>Sat, 07 Sep 2019 14:57:19 +0000</pubDate>
       <guid>https://jungonghan.github.io/publication/my-publicatioin/19tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DECODE: Deep Confidence Network for Robust Image Classification</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tip3/</link>
+      <pubDate>Wed, 07 Aug 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tip3/</guid>
       <description></description>
     </item>
     
@@ -69,10 +85,210 @@
     </item>
     
     <item>
-      <title>Unsupervised deep video hashing via balanced code for large-scale video retrieval</title>
+      <title>Attribute-Guided Network for Cross-Modal Zero-Shot Hashing</title>
       <link>https://jungonghan.github.io/publication/my-publicatioin/18tip/</link>
-      <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
+      <pubDate>Sun, 07 Apr 2019 14:57:19 +0000</pubDate>
       <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminant Analysis via Joint Euler Transform and L2,1-norm</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tip2/</link>
+      <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised deep video hashing via balanced code for large-scale video retrieval</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tnnls/</link>
+      <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tnnls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action Recognition From Arbitrary Views Using Transferable Dictionary Learning</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tip4/</link>
+      <pubDate>Sun, 07 Oct 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Image-Text Hashing for Large-Scale Cross-Media Retrieval Using Self-Supervised Deep Learning</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tie/</link>
+      <pubDate>Sun, 07 Oct 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unconstrained Face Recognition Using a Set-to-Set Distance Measure on Deep Learned Features</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tcsvt/</link>
+      <pubDate>Sun, 07 Oct 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tcsvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabor Convolutional Networks</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tip3/</link>
+      <pubDate>Fri, 07 Sep 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End Feature-Aware Label Space Encoding for Multilabel Classification With Many Classes</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tnnls/</link>
+      <pubDate>Thu, 07 Jun 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tnnls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulated Convolutional Networks</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18cvpr/</link>
+      <pubDate>Thu, 07 Jun 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Fisher discriminant learning for mobile hand gesture recognition</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18pr/</link>
+      <pubDate>Mon, 07 May 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18pr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Probability Distribution Prediction of Image Emotions With Shared Sparse Learning</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18taffc/</link>
+      <pubDate>Wed, 07 Mar 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18taffc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Emotion Recognition by Personality-aware High-order Learning of Physiological Signals</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tomm/</link>
+      <pubDate>Wed, 07 Mar 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dense Invariant Feature-Based Support Vector Ranking for Cross-Camera Person Reidentification</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tcsvt2/</link>
+      <pubDate>Wed, 07 Feb 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tcsvt2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Trivial Solution and High Correlation Problems in Deep Supervised Hashing</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18aaai/</link>
+      <pubDate>Sun, 07 Jan 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Scalable Visual Tracking via Quadrangle Kernelized Correlation Filters</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tits/</link>
+      <pubDate>Sun, 07 Jan 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning With Attribute Selection</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18aaai2/</link>
+      <pubDate>Sun, 07 Jan 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18aaai2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-View Retrieval via Probability-Based Semantics-Preserving Hashing</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tc/</link>
+      <pubDate>Thu, 07 Dec 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspectral Band Selection Using Improved Classification Map</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tgrsl/</link>
+      <pubDate>Tue, 07 Nov 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tgrsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent Constrained Correlation Filter</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tip5/</link>
+      <pubDate>Tue, 07 Nov 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLE Score: A New Filter-Based Unsupervised Feature Selection Method Based on Nonlinear Manifold Embedding and Its Application to Image Recognition</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip3/</link>
+      <pubDate>Tue, 07 Nov 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action Recognition Using 3D Histograms of Texture and A Multi-class Boosting Classifier</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip4/</link>
+      <pubDate>Sat, 07 Oct 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning With Transferred Samples</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17access/</link>
+      <pubDate>Fri, 07 Jul 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning With Transferred Samples</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip5/</link>
+      <pubDate>Fri, 07 Jul 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Zero-shot Learning to Conventional Supervised Classification: Unseen Visual Data Synthesis</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17cvpr/</link>
+      <pubDate>Wed, 07 Jun 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Hash with Optimized Anchor Embedding for Scalable Retrieval</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip/</link>
+      <pubDate>Tue, 07 Mar 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Discrete Hashing for Scalable Cross-Modality Similarity Retrieval</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip2/</link>
+      <pubDate>Sat, 07 Jan 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip2/</guid>
       <description></description>
     </item>
     
@@ -97,6 +313,30 @@
       <link>https://jungonghan.github.io/project/project2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://jungonghan.github.io/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixed-Reality System for Broadcasting Sports Video to Mobile Devices</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/11tm/</link>
+      <pubDate>Mon, 07 Feb 2011 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/11tm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadcast Court-Net Sports Video Analysis Using Fast 3-D Camera Modeling</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/08tcsvt/</link>
+      <pubDate>Fri, 07 Nov 2008 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/08tcsvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time video content analysis tool for consumer media storage system</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/08tce/</link>
+      <pubDate>Mon, 07 Aug 2006 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/08tce/</guid>
       <description></description>
     </item>
     

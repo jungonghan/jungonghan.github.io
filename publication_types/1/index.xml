@@ -44,5 +44,37 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Modulated Convolutional Networks</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18cvpr/</link>
+      <pubDate>Thu, 07 Jun 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Trivial Solution and High Correlation Problems in Deep Supervised Hashing</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18aaai/</link>
+      <pubDate>Sun, 07 Jan 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning With Attribute Selection</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18aaai2/</link>
+      <pubDate>Sun, 07 Jan 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18aaai2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Zero-shot Learning to Conventional Supervised Classification: Unseen Visual Data Synthesis</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17cvpr/</link>
+      <pubDate>Wed, 07 Jun 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17cvpr/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

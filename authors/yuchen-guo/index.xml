@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>DECODE: Deep Confidence Network for Robust Image Classification</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tip3/</link>
+      <pubDate>Wed, 07 Aug 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tip3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Approximated oracle filter pruning for destructive CNN width optimization</title>
       <link>https://jungonghan.github.io/publication/my-publicatioin/19icml/</link>
       <pubDate>Fri, 07 Jun 2019 14:57:19 +0000</pubDate>
@@ -30,9 +38,49 @@
     
     <item>
       <title>Unsupervised deep video hashing via balanced code for large-scale video retrieval</title>
-      <link>https://jungonghan.github.io/publication/my-publicatioin/18tip/</link>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tnnls/</link>
       <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
-      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip/</guid>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tnnls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Trivial Solution and High Correlation Problems in Deep Supervised Hashing</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18aaai/</link>
+      <pubDate>Sun, 07 Jan 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning With Attribute Selection</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18aaai2/</link>
+      <pubDate>Sun, 07 Jan 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18aaai2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning With Transferred Samples</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17access/</link>
+      <pubDate>Fri, 07 Jul 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Learning With Transferred Samples</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip5/</link>
+      <pubDate>Fri, 07 Jul 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Hash with Optimized Anchor Embedding for Scalable Retrieval</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip/</link>
+      <pubDate>Tue, 07 Mar 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip/</guid>
       <description></description>
     </item>
     

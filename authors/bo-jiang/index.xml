@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bo Jiang | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/bo-jiang/</link>
+      <atom:link href="https://jungonghan.github.io/authors/bo-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bo Jiang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Nov 2017 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Bo Jiang</title>
+      <link>https://jungonghan.github.io/authors/bo-jiang/</link>
+    </image>
+    
+    <item>
+      <title>LLE Score: A New Filter-Based Unsupervised Feature Selection Method Based on Nonlinear Manifold Embedding and Its Application to Image Recognition</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17tip3/</link>
+      <pubDate>Tue, 07 Nov 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Han and J. Liu | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/j.-han-and-j.-liu/</link>
+      <atom:link href="https://jungonghan.github.io/authors/j.-han-and-j.-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Han and J. Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2019 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>J. Han and J. Liu</title>
+      <link>https://jungonghan.github.io/authors/j.-han-and-j.-liu/</link>
+    </image>
+    
+    <item>
+      <title>Modulated Convolutional Networks</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19pami1/</link>
+      <pubDate>Sat, 07 Dec 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19pami1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
