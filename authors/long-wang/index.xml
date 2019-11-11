@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Long Wang | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/long-wang/</link>
+      <atom:link href="https://jungonghan.github.io/authors/long-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Long Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Long Wang</title>
+      <link>https://jungonghan.github.io/authors/long-wang/</link>
+    </image>
+    
+    <item>
+      <title>Salient Object Detection via Two-Stage Graphs</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tcsvt/</link>
+      <pubDate>Sun, 07 Apr 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tcsvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salient object detection employing robust sparse representation and local consistency</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18ivc/</link>
+      <pubDate>Sun, 07 Jan 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18ivc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

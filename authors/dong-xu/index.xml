@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dong Xu | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/dong-xu/</link>
+      <atom:link href="https://jungonghan.github.io/authors/dong-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dong Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2013 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Dong Xu</title>
+      <link>https://jungonghan.github.io/authors/dong-xu/</link>
+    </image>
+    
+    <item>
+      <title>Computer vision for RGB-D sensors: Kinect and its applications</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/13tc/</link>
+      <pubDate>Mon, 07 Oct 2013 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/13tc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Computer Vision With Microsoft Kinect Sensor: A Review</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/13tc1/</link>
+      <pubDate>Mon, 07 Oct 2013 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/13tc1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

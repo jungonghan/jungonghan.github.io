@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qiang Liu | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/qiang-liu/</link>
+      <atom:link href="https://jungonghan.github.io/authors/qiang-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qiang Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Aug 2018 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Qiang Liu</title>
+      <link>https://jungonghan.github.io/authors/qiang-liu/</link>
+    </image>
+    
+    <item>
+      <title>Neural Image Caption Generation with Weighted Training and Reference</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18cc/</link>
+      <pubDate>Tue, 07 Aug 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18cc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

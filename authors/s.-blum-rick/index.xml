@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Blum Rick | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/s.-blum-rick/</link>
+      <atom:link href="https://jungonghan.github.io/authors/s.-blum-rick/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Blum Rick</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Nov 2018 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>S. Blum Rick</title>
+      <link>https://jungonghan.github.io/authors/s.-blum-rick/</link>
+    </image>
+    
+    <item>
+      <title>Robust Sparse Representation based Multi-focus Image Fusion with Dictionary Construction and Local Spatial Consistency</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18pr2/</link>
+      <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18pr2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

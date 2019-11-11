@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dacheng Tao | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/dacheng-tao/</link>
+      <atom:link href="https://jungonghan.github.io/authors/dacheng-tao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dacheng Tao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Mar 2018 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Dacheng Tao</title>
+      <link>https://jungonghan.github.io/authors/dacheng-tao/</link>
+    </image>
+    
+    <item>
+      <title>Sparse representation based multi-sensor image fusion for multi-focus and multi-modality images: A review</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18if/</link>
+      <pubDate>Wed, 07 Mar 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18if/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

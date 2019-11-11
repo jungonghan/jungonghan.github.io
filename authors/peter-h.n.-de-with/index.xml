@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter H.N. de With | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/peter-h.n.-de-with/</link>
+      <atom:link href="https://jungonghan.github.io/authors/peter-h.n.-de-with/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter H.N. de With</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Peter H.N. de With</title>
+      <link>https://jungonghan.github.io/authors/peter-h.n.-de-with/</link>
+    </image>
+    
+    <item>
+      <title>Intelligent Trainee Behavior Assessment System for Medical Training Employing Video Analysis</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/12prl/</link>
+      <pubDate>Thu, 07 Nov 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/12prl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employing a RGB-D Sensor for Real-Time Tracking of Humans across Multiple Re-Entries in a Smart Environment</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/12tce/</link>
+      <pubDate>Mon, 07 May 2012 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/12tce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic video-based human motion analyzer for consumer surveillance system</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/09tce/</link>
+      <pubDate>Sat, 07 Nov 2009 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/09tce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

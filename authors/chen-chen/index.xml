@@ -5,12 +5,20 @@
     <link>https://jungonghan.github.io/authors/chen-chen/</link>
       <atom:link href="https://jungonghan.github.io/authors/chen-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Chen Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Sep 2018 14:57:19 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Nov 2018 14:57:19 +0000</lastBuildDate>
     <image>
       <url>https://jungonghan.github.io/img/icon-192.png</url>
       <title>Chen Chen</title>
       <link>https://jungonghan.github.io/authors/chen-chen/</link>
     </image>
+    
+    <item>
+      <title>One-two-one networks for compression artifacts reduction in remote sensing</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18isprs/</link>
+      <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18isprs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gabor Convolutional Networks</title>
@@ -41,6 +49,22 @@
       <link>https://jungonghan.github.io/publication/my-publicatioin/17tip4/</link>
       <pubDate>Sat, 07 Oct 2017 14:57:19 +0000</pubDate>
       <guid>https://jungonghan.github.io/publication/my-publicatioin/17tip4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Reconstruction via Manifold Constrained Convolutional Sparse Coding for Image Sets</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17ijst/</link>
+      <pubDate>Sat, 07 Oct 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17ijst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Temporal Depth Motion Maps-Based Local Binary Patterns for 3-D Human Action Recognition</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17access/</link>
+      <pubDate>Sat, 07 Oct 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17access/</guid>
       <description></description>
     </item>
     

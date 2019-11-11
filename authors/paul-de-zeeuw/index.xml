@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul de Zeeuw | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/paul-de-zeeuw/</link>
+      <atom:link href="https://jungonghan.github.io/authors/paul-de-zeeuw/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul de Zeeuw</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jul 2013 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Paul de Zeeuw</title>
+      <link>https://jungonghan.github.io/authors/paul-de-zeeuw/</link>
+    </image>
+    
+    <item>
+      <title>Fast saliency-aware multi-modality image fusion</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/13nc/</link>
+      <pubDate>Sun, 07 Jul 2013 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/13nc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visible and infrared image registration in man-made environments employing hybrid visual features</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/13prl/</link>
+      <pubDate>Sun, 07 Jul 2013 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/13prl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

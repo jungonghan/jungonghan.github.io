@@ -5,12 +5,20 @@
     <link>https://jungonghan.github.io/authors/sicheng-zhao/</link>
       <atom:link href="https://jungonghan.github.io/authors/sicheng-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Sicheng Zhao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Mar 2018 14:57:19 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Aug 2018 14:57:19 +0000</lastBuildDate>
     <image>
       <url>https://jungonghan.github.io/img/icon-192.png</url>
       <title>Sicheng Zhao</title>
       <link>https://jungonghan.github.io/authors/sicheng-zhao/</link>
     </image>
+    
+    <item>
+      <title>Neural Image Caption Generation with Weighted Training and Reference</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18cc/</link>
+      <pubDate>Tue, 07 Aug 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18cc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Discrete Probability Distribution Prediction of Image Emotions With Shared Sparse Learning</title>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianming Liu | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/tianming-liu/</link>
+      <atom:link href="https://jungonghan.github.io/authors/tianming-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianming Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Aug 2015 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Tianming Liu</title>
+      <link>https://jungonghan.github.io/authors/tianming-liu/</link>
+    </image>
+    
+    <item>
+      <title>Learning Computational Models of Video Memorability from fMRI Brain Imaging</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/15tc/</link>
+      <pubDate>Fri, 07 Aug 2015 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/15tc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video abstraction based on fMRI-driven visual attention model</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/14is/</link>
+      <pubDate>Tue, 07 Oct 2014 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/14is/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

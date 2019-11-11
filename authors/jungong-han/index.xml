@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Intelligent Trainee Behavior Assessment System for Medical Training Employing Video Analysis</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/12prl/</link>
+      <pubDate>Thu, 07 Nov 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/12prl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Aggregation signature for small object tracking</title>
       <link>https://jungonghan.github.io/publication/my-publicatioin/19tip/</link>
       <pubDate>Sat, 07 Sep 2019 14:57:19 +0000</pubDate>
@@ -77,10 +85,34 @@
     </item>
     
     <item>
+      <title>Salient Object Detection via Two-Stage Graphs</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tcsvt/</link>
+      <pubDate>Sun, 07 Apr 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tcsvt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Discriminant Analysis via Joint Euler Transform and L2,1-norm</title>
       <link>https://jungonghan.github.io/publication/my-publicatioin/18tip2/</link>
       <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
       <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-two-one networks for compression artifacts reduction in remote sensing</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18isprs/</link>
+      <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18isprs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Sparse Representation based Multi-focus Image Fusion with Dictionary Construction and Local Spatial Consistency</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18pr2/</link>
+      <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18pr2/</guid>
       <description></description>
     </item>
     
@@ -125,6 +157,14 @@
     </item>
     
     <item>
+      <title>Neural Image Caption Generation with Weighted Training and Reference</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18cc/</link>
+      <pubDate>Tue, 07 Aug 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18cc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>End-to-End Feature-Aware Label Space Encoding for Multilabel Classification With Many Classes</title>
       <link>https://jungonghan.github.io/publication/my-publicatioin/18tnnls/</link>
       <pubDate>Thu, 07 Jun 2018 14:57:19 +0000</pubDate>
@@ -165,6 +205,14 @@
     </item>
     
     <item>
+      <title>Sparse representation based multi-sensor image fusion for multi-focus and multi-modality images: A review</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18if/</link>
+      <pubDate>Wed, 07 Mar 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18if/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dense Invariant Feature-Based Support Vector Ranking for Cross-Camera Person Reidentification</title>
       <link>https://jungonghan.github.io/publication/my-publicatioin/18tcsvt2/</link>
       <pubDate>Wed, 07 Feb 2018 14:57:19 +0000</pubDate>
@@ -185,6 +233,14 @@
       <link>https://jungonghan.github.io/publication/my-publicatioin/18tits/</link>
       <pubDate>Sun, 07 Jan 2018 14:57:19 +0000</pubDate>
       <guid>https://jungonghan.github.io/publication/my-publicatioin/18tits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salient object detection employing robust sparse representation and local consistency</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18ivc/</link>
+      <pubDate>Sun, 07 Jan 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18ivc/</guid>
       <description></description>
     </item>
     
@@ -237,9 +293,17 @@
     </item>
     
     <item>
-      <title>Zero-Shot Learning With Transferred Samples</title>
+      <title>Image Reconstruction via Manifold Constrained Convolutional Sparse Coding for Image Sets</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17ijst/</link>
+      <pubDate>Sat, 07 Oct 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17ijst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Temporal Depth Motion Maps-Based Local Binary Patterns for 3-D Human Action Recognition</title>
       <link>https://jungonghan.github.io/publication/my-publicatioin/17access/</link>
-      <pubDate>Fri, 07 Jul 2017 14:57:19 +0000</pubDate>
+      <pubDate>Sat, 07 Oct 2017 14:57:19 +0000</pubDate>
       <guid>https://jungonghan.github.io/publication/my-publicatioin/17access/</guid>
       <description></description>
     </item>
@@ -277,10 +341,82 @@
     </item>
     
     <item>
+      <title>Cosaliency Detection Based on Intrasaliency Prior Transfer and Deep Intersaliency Mining</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18tnnls2/</link>
+      <pubDate>Tue, 07 Jun 2016 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tnnls2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Computational Models of Video Memorability from fMRI Brain Imaging</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/15tc/</link>
+      <pubDate>Fri, 07 Aug 2015 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/15tc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video abstraction based on fMRI-driven visual attention model</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/14is/</link>
+      <pubDate>Tue, 07 Oct 2014 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/14is/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer vision for RGB-D sensors: Kinect and its applications</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/13tc/</link>
+      <pubDate>Mon, 07 Oct 2013 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/13tc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Computer Vision With Microsoft Kinect Sensor: A Review</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/13tc1/</link>
+      <pubDate>Mon, 07 Oct 2013 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/13tc1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast saliency-aware multi-modality image fusion</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/13nc/</link>
+      <pubDate>Sun, 07 Jul 2013 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/13nc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visible and infrared image registration in man-made environments employing hybrid visual features</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/13prl/</link>
+      <pubDate>Sun, 07 Jul 2013 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/13prl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employing a RGB-D Sensor for Real-Time Tracking of Humans across Multiple Re-Entries in a Smart Environment</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/12tce/</link>
+      <pubDate>Mon, 07 May 2012 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/12tce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Mixed-Reality System for Broadcasting Sports Video to Mobile Devices</title>
       <link>https://jungonghan.github.io/publication/my-publicatioin/11tm/</link>
       <pubDate>Mon, 07 Feb 2011 14:57:19 +0000</pubDate>
       <guid>https://jungonghan.github.io/publication/my-publicatioin/11tm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic video-based human motion analyzer for consumer surveillance system</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/09tce/</link>
+      <pubDate>Sat, 07 Nov 2009 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/09tce/</guid>
       <description></description>
     </item>
     

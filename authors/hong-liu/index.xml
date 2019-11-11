@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hong Liu | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/hong-liu/</link>
+      <atom:link href="https://jungonghan.github.io/authors/hong-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hong Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Oct 2017 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Hong Liu</title>
+      <link>https://jungonghan.github.io/authors/hong-liu/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Temporal Depth Motion Maps-Based Local Binary Patterns for 3-D Human Action Recognition</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/17access/</link>
+      <pubDate>Sat, 07 Oct 2017 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/17access/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

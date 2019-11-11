@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Fusion and Description</title>
+      <link>https://jungonghan.github.io/categories/fusion-and-description/</link>
+      <pubDate>Sat, 07 Dec 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/categories/fusion-and-description/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine vision</title>
+      <link>https://jungonghan.github.io/categories/machine-vision/</link>
+      <pubDate>Sat, 07 Dec 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/categories/machine-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Object Recognition and Classification</title>
       <link>https://jungonghan.github.io/categories/object-recognition-and-classification/</link>
       <pubDate>Sat, 07 Dec 2019 14:57:19 +0000</pubDate>
       <guid>https://jungonghan.github.io/categories/object-recognition-and-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saliency</title>
+      <link>https://jungonghan.github.io/categories/saliency/</link>
+      <pubDate>Sat, 07 Dec 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/categories/saliency/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://jungonghan.github.io/authors/weilun-lao/</link>
       <atom:link href="https://jungonghan.github.io/authors/weilun-lao/index.xml" rel="self" type="application/rss+xml" />
     <description>Weilun Lao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Aug 2006 14:57:19 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 07 Nov 2009 14:57:19 +0000</lastBuildDate>
     <image>
       <url>https://jungonghan.github.io/img/icon-192.png</url>
       <title>Weilun Lao</title>
       <link>https://jungonghan.github.io/authors/weilun-lao/</link>
     </image>
+    
+    <item>
+      <title>Automatic video-based human motion analyzer for consumer surveillance system</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/09tce/</link>
+      <pubDate>Sat, 07 Nov 2009 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/09tce/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Real-time video content analysis tool for consumer media storage system</title>

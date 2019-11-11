@@ -5,12 +5,20 @@
     <link>https://jungonghan.github.io/authors/jianzhuang-liu/</link>
       <atom:link href="https://jungonghan.github.io/authors/jianzhuang-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianzhuang Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Sep 2018 14:57:19 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Nov 2018 14:57:19 +0000</lastBuildDate>
     <image>
       <url>https://jungonghan.github.io/img/icon-192.png</url>
       <title>Jianzhuang Liu</title>
       <link>https://jungonghan.github.io/authors/jianzhuang-liu/</link>
     </image>
+    
+    <item>
+      <title>One-two-one networks for compression artifacts reduction in remote sensing</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/18isprs/</link>
+      <pubDate>Wed, 07 Nov 2018 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/18isprs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gabor Convolutional Networks</title>
