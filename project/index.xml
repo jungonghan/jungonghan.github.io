@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jungong Han</title>
+    <link>https://jungonghan.github.io/project/</link>
+      <atom:link href="https://jungonghan.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://jungonghan.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Learning to Search Similarity</title>
+      <link>https://jungonghan.github.io/project/my-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/project/my-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine vision, Saliency, Fusion and Description</title>
+      <link>https://jungonghan.github.io/project/project3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Recognition and Classification</title>
+      <link>https://jungonghan.github.io/project/project2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/project/project2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

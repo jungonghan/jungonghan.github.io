@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi Liu | Jungong Han</title>
+    <link>https://jungonghan.github.io/authors/yi-liu/</link>
+      <atom:link href="https://jungonghan.github.io/authors/yi-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 14:57:19 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/img/icon-192.png</url>
+      <title>Yi Liu</title>
+      <link>https://jungonghan.github.io/authors/yi-liu/</link>
+    </image>
+    
+    <item>
+      <title>Employing deep part-object relationships for salient object detection</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19iccv/</link>
+      <pubDate>Thu, 07 Nov 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19iccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep salient object detection with contextual information guidance</title>
+      <link>https://jungonghan.github.io/publication/my-publicatioin/19tip2/</link>
+      <pubDate>Sun, 07 Jul 2019 14:57:19 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/my-publicatioin/19tip2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
