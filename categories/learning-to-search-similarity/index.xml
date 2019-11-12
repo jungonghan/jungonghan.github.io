@@ -5,20 +5,12 @@
     <link>https://jungonghan.github.io/categories/learning-to-search-similarity/</link>
       <atom:link href="https://jungonghan.github.io/categories/learning-to-search-similarity/index.xml" rel="self" type="application/rss+xml" />
     <description>Learning to Search Similarity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 14:57:19 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Oct 2018 14:57:19 +0000</lastBuildDate>
     <image>
       <url>https://jungonghan.github.io/img/icon-192.png</url>
       <title>Learning to Search Similarity</title>
       <link>https://jungonghan.github.io/categories/learning-to-search-similarity/</link>
     </image>
-    
-    <item>
-      <title>Attribute-Guided Network for Cross-Modal Zero-Shot Hashing</title>
-      <link>https://jungonghan.github.io/publication/my-publicatioin/18tip/</link>
-      <pubDate>Sun, 07 Apr 2019 14:57:19 +0000</pubDate>
-      <guid>https://jungonghan.github.io/publication/my-publicatioin/18tip/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Joint Image-Text Hashing for Large-Scale Cross-Media Retrieval Using Self-Supervised Deep Learning</title>
