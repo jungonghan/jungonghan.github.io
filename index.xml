@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jungong Han</title>
+    <link>https://jungonghan.github.io/</link>
+      <atom:link href="https://jungonghan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jungong Han</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/media/icon_hu2f40906c909f9886d723655d7a3eccbd_25938_512x512_fill_lanczos_center_2.png</url>
+      <title>Jungong Han</title>
+      <link>https://jungonghan.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://jungonghan.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our work entitled Semi-supervised Object Detection via Virtual Category Learning was accepted by ECCV as an oral presentation (acceptance rate: 2.8%)</title>
+      <link>https://jungonghan.github.io/post/202208022/</link>
+      <pubDate>Tue, 02 Aug 2022 02:38:06 +0800</pubDate>
+      <guid>https://jungonghan.github.io/post/202208022/</guid>
+      <description>&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+&lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  &lt;span &gt;
+      Changrui Chen, Kurt Debattista, Jungong Han.&lt;/span&gt;
+  &lt;/span&gt;
+  &lt;a href=&#34;https://arxiv.org/abs/2207.03433&#34; target=&#34;_blank&#34;&gt;Semi-supervised Object Detection via Virtual Category Learning&lt;/a&gt;.
+  ECCV 2022 (oral).
+  &lt;p&gt;
+&lt;/p&gt;  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I was elected as the Fellow of International Association of Pattern Recognition (IAPR)</title>
+      <link>https://jungonghan.github.io/post/202208021/</link>
+      <pubDate>Tue, 02 Aug 2022 02:38:03 +0800</pubDate>
+      <guid>https://jungonghan.github.io/post/202208021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have accepted to become the Associate Editor for IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)</title>
+      <link>https://jungonghan.github.io/post/20220802/</link>
+      <pubDate>Tue, 02 Aug 2022 02:37:56 +0800</pubDate>
+      <guid>https://jungonghan.github.io/post/20220802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project3</title>
+      <link>https://jungonghan.github.io/project/project3/</link>
+      <pubDate>Tue, 22 Jun 2021 21:22:36 +0100</pubDate>
+      <guid>https://jungonghan.github.io/project/project3/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna.&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;Proin in dui enim. Donec condimentum,  $\nabla F(\mathbf{x}_{n})$ sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp;amp; \text{if }k=1, \\&lt;br&gt;
+1-p_{0}^{*} &amp;amp; \text{if }k=0.\end{cases}$$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project2</title>
+      <link>https://jungonghan.github.io/project/project2/</link>
+      <pubDate>Sun, 20 Jun 2021 08:42:18 +0100</pubDate>
+      <guid>https://jungonghan.github.io/project/project2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project1</title>
+      <link>https://jungonghan.github.io/project/project1/</link>
+      <pubDate>Sun, 20 Jun 2021 08:42:14 +0100</pubDate>
+      <guid>https://jungonghan.github.io/project/project1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna.&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;Proin in dui enim. Donec condimentum,  $\nabla F(\mathbf{x}_{n})$ sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp;amp; \text{if }k=1, \\&lt;br&gt;
+1-p_{0}^{*} &amp;amp; \text{if }k=0.\end{cases}$$&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Three papers got accepted by CVPR 2021</title>
+      <link>https://jungonghan.github.io/post/20210301/</link>
+      <pubDate>Mon, 01 Mar 2021 15:15:37 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20210301/</guid>
+      <description>&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+&lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  &lt;span &gt;
+      Xiaohan Ding, 
+      Xiangyu Zhang, 
+      Jungong Han, 
+      Guiguang Ding.&lt;/span&gt;
+  &lt;/span&gt;
+  &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_Diverse_Branch_Block_Building_a_Convolution_as_an_Inception-Like_Unit_CVPR_2021_paper.pdf&#34; target=&#34;_blank&#34;&gt;Diverse Branch Block: Building a Convolution as an Inception-Like Unit&lt;/a&gt;.
+  CVPR 2021.
+  &lt;p&gt;
+&lt;/p&gt;  
+&lt;/div&gt;
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+&lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  &lt;span &gt;
+      Xiaohan Ding, Xiangyu Zhang, Ningning Ma, Jungong Han, Guiguang Ding, Jian Sun.&lt;/span&gt;
+  &lt;/span&gt;
+  &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_RepVGG_Making_VGG-Style_ConvNets_Great_Again_CVPR_2021_paper.pdf&#34; target=&#34;_blank&#34;&gt;RepVGG: Making VGG-Style ConvNets Great Again&lt;/a&gt;.
+  CVPR 2021.
+  &lt;p&gt;
+&lt;/p&gt;  
+&lt;/div&gt;
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+&lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  &lt;span &gt;
+      Qiang Zhang, Shenlu Zhao, Yongjiang Luo, Dingwen Zhang, Nianchang Huang, Jungong Han.&lt;/span&gt;
+  &lt;/span&gt;
+  &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_RepVGG_Making_VGG-Style_ConvNets_Great_Again_CVPR_2021_paper.pdf&#34; target=&#34;_blank&#34;&gt;ABMDRNet: Adaptive-Weighted Bi-Directional Modality Difference Reduction Network for RGB-T Semantic Segmentation&lt;/a&gt;.
+  CVPR 2021.
+  &lt;p&gt;
+&lt;/p&gt;  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I have accepted to become the Associate Editor-in-Chief (AEIC) for Neurocomputing and will be in charge of all Computer Vision submissions</title>
+      <link>https://jungonghan.github.io/post/20210201/</link>
+      <pubDate>Mon, 01 Feb 2021 15:28:30 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20210201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our ICCV extension entitled: Part-Object Relational Visual Saliency is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
+      <link>https://jungonghan.github.io/post/202101171/</link>
+      <pubDate>Sun, 17 Jan 2021 10:16:02 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/202101171/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have accepted the invitation from the EiC of the Journal of Visual Communication and Image Representation, and will serve as the Associate Editor of JVCI</title>
+      <link>https://jungonghan.github.io/post/20210117/</link>
+      <pubDate>Sun, 17 Jan 2021 10:14:24 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20210117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by IEEE Transactions on Cybernetics</title>
+      <link>https://jungonghan.github.io/post/20210112/</link>
+      <pubDate>Tue, 12 Jan 2021 11:24:58 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20210112/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by ACM Transactions on Multimedia Computing Communications and Applications; One paper was accepted by IEEE Transactions on Cybernetics</title>
+      <link>https://jungonghan.github.io/post/20210103/</link>
+      <pubDate>Sun, 03 Jan 2021 11:26:58 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20210103/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic pancreas segmentation based on lightweight DCNN modules and spatial prior propagation</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-zhang-zzhzh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-zhang-zzhzh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascaded hierarchical atrous spatial pyramid pooling module for semantic segmentation</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-lian-php-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-lian-php-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modality deep feature learning for brain tumor segmentation</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-zhang-hzhhy-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-zhang-hzhhy-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Attentive Video Summarization With Distribution Consistency Learning</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstnn-ji-zplh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstnn-ji-zplh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring a unified low rank representation for multi-focus image fusion</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-zhang-wlh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-zhang-wlh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning modulation filter networks for weak signal detection in noise</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-zhang-dzlhd-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-zhang-dzlhd-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part-object relational visual saliency</title>
+      <link>https://jungonghan.github.io/publication/liu-2021-part/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/liu-2021-part/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Feature Fusion for RGB-T Salient Object Detection</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstcsv-zhang-xhzh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstcsv-zhang-xhzh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrasound tissue classification: a review</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsair-shan-th-021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsair-shan-th-021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where to Prune: Using LSTM to Guide Data-Dependent Soft Pruning</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-ding-zjzh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-ding-zjzh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by Artificial Intelligence Review</title>
+      <link>https://jungonghan.github.io/post/202009262/</link>
+      <pubDate>Sat, 26 Sep 2020 11:30:58 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/202009262/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by IEEE Transactions on Image Processing</title>
+      <link>https://jungonghan.github.io/post/202009261/</link>
+      <pubDate>Sat, 26 Sep 2020 11:29:58 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/202009261/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by NeurIPS 2020</title>
+      <link>https://jungonghan.github.io/post/20200926/</link>
+      <pubDate>Sat, 26 Sep 2020 11:29:08 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20200926/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregation Signature for Small Object Tracking</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-liu-dymzhg-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-liu-dymzhg-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribute-Guided Network for Cross-Modal Zero-Shot Hashing</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstnn-ji-syph-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstnn-ji-syph-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BidNet: Binocular Image Dehazing Without Explicit Disparity Estimation</title>
+      <link>https://jungonghan.github.io/publication/dblp-confcvpr-pang-nxhl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confcvpr-pang-nxhl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BidNet: Binocular image dehazing without explicit disparity estimation</title>
+      <link>https://jungonghan.github.io/publication/pang-2020-bidnet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/pang-2020-bidnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Salient Object Detection With Contextual Information Guidance</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-liu-h-0-s-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-liu-h-0-s-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Probability Distribution Prediction of Image Emotions with Shared Sparse Learning</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstaffco-zhao-dgzthyh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstaffco-zhao-dgzthyh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Episode-Based Prototype Generating Network for Zero-Shot Learning</title>
+      <link>https://jungonghan.github.io/publication/dblp-confcvpr-yu-jhz-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confcvpr-yu-jhz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Task Structure for Brain Tumor Segmentation From Multi-Modality MR Images</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-zhang-hzhhwy-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-zhang-hzhhwy-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-Cost Salient Object Detection with Adversarial-Paced Learning</title>
+      <link>https://jungonghan.github.io/publication/dblp-confnips-zhang-th-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confnips-zhang-th-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Transfer Learning with Weighted Instance-Correspondence Data</title>
+      <link>https://jungonghan.github.io/publication/dblp-confaaai-he-jdghzz-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confaaai-he-jdghzz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMRAM: Iterative Matching With Recurrent Attention Memory for Cross-Modal Image-Text Retrieval</title>
+      <link>https://jungonghan.github.io/publication/dblp-confcvpr-chen-dlllh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confcvpr-chen-dlllh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Label-activating framework for zero-shot learning</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsnn-liu-gghs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsnn-liu-gghs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-Tailed Classification</title>
+      <link>https://jungonghan.github.io/publication/dblp-confeccv-xiang-dh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confeccv-xiang-dh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from multiple experts: Self-paced knowledge distillation for long-tailed classification</title>
+      <link>https://jungonghan.github.io/publication/xiang-2020-learning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/xiang-2020-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-focus image fusion based on non-negative sparse representation and patch-level consistency rectification</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-zhang-lch-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-zhang-lch-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-layer Attention Based CNN for Target-Dependent Sentiment Classification</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsnpl-zhang-xph-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsnpl-zhang-xph-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAS-Count: Counting-by-Density with Neural Architecture Search</title>
+      <link>https://jungonghan.github.io/publication/dblp-confeccv-hu-jlzhcd-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confeccv-hu-jlzhcd-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Aggregation of Unsupervised Deep Binary Descriptor With Weak Bits</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-wu-ldnh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-wu-ldnh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedestrian attribute recognition based on multiple time steps attention</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsprl-ji-hhhp-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsprl-ji-hhhp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixelated Semantic Colorization</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsijcv-zhao-hss-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsijcv-zhao-hss-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB-T Salient Object Detection via Fusing Multi-Level CNN Features</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-zhang-hyzsh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-zhang-hyzsh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic segmentation with hybrid pyramid pooling and stacked pyramid structure</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsijon-lian-php-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsijon-lian-php-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shallow Feature Based Dense Attention Network for Crowd Counting</title>
+      <link>https://jungonghan.github.io/publication/dblp-confaaai-miao-ldh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confaaai-miao-ldh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking a Look at Small-Scale Pedestrians and Occluded Pedestrians</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-cao-phgl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-cao-phgl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Structure Transfer Machine Theory and Applications</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-zhang-ywzhz-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-zhang-ywzhz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Generative Adversarial Networks to Break and Protect Text Captchas</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstissec-ye-tfzfxchw-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstissec-ye-tfzfxchw-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://jungonghan.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Employing deep part-object relationships for salient object detection</title>
+      <link>https://jungonghan.github.io/publication/liu-2019-employing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/liu-2019-employing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global sparse momentum sgd for pruning very deep neural networks</title>
+      <link>https://jungonghan.github.io/publication/ding-2019-global/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/ding-2019-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixelated semantic colorization</title>
+      <link>https://jungonghan.github.io/publication/zhao-2019-pixelated/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/zhao-2019-pixelated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabor convolutional networks</title>
+      <link>https://jungonghan.github.io/publication/luan-2018-gabor/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/luan-2018-gabor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised deep video hashing via balanced code for large-scale video retrieval</title>
+      <link>https://jungonghan.github.io/publication/wu-2018-unsupervised/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/wu-2018-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jungonghan.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

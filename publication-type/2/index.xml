@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Jungong Han</title>
+    <link>https://jungonghan.github.io/publication-type/2/</link>
+      <atom:link href="https://jungonghan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/media/icon_hu2f40906c909f9886d723655d7a3eccbd_25938_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://jungonghan.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Automatic pancreas segmentation based on lightweight DCNN modules and spatial prior propagation</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-zhang-zzhzh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-zhang-zzhzh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascaded hierarchical atrous spatial pyramid pooling module for semantic segmentation</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-lian-php-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-lian-php-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modality deep feature learning for brain tumor segmentation</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-zhang-hzhhy-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-zhang-hzhhy-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Attentive Video Summarization With Distribution Consistency Learning</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstnn-ji-zplh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstnn-ji-zplh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring a unified low rank representation for multi-focus image fusion</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-zhang-wlh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-zhang-wlh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning modulation filter networks for weak signal detection in noise</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-zhang-dzlhd-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-zhang-dzlhd-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part-object relational visual saliency</title>
+      <link>https://jungonghan.github.io/publication/liu-2021-part/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/liu-2021-part/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Feature Fusion for RGB-T Salient Object Detection</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstcsv-zhang-xhzh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstcsv-zhang-xhzh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrasound tissue classification: a review</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsair-shan-th-021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsair-shan-th-021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where to Prune: Using LSTM to Guide Data-Dependent Soft Pruning</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-ding-zjzh-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-ding-zjzh-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregation Signature for Small Object Tracking</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-liu-dymzhg-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-liu-dymzhg-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attribute-Guided Network for Cross-Modal Zero-Shot Hashing</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstnn-ji-syph-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstnn-ji-syph-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Salient Object Detection With Contextual Information Guidance</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-liu-h-0-s-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-liu-h-0-s-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Probability Distribution Prediction of Image Emotions with Shared Sparse Learning</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstaffco-zhao-dgzthyh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstaffco-zhao-dgzthyh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Task Structure for Brain Tumor Segmentation From Multi-Modality MR Images</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-zhang-hzhhwy-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-zhang-hzhhwy-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Label-activating framework for zero-shot learning</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsnn-liu-gghs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsnn-liu-gghs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-focus image fusion based on non-negative sparse representation and patch-level consistency rectification</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalspr-zhang-lch-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalspr-zhang-lch-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-layer Attention Based CNN for Target-Dependent Sentiment Classification</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsnpl-zhang-xph-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsnpl-zhang-xph-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Aggregation of Unsupervised Deep Binary Descriptor With Weak Bits</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-wu-ldnh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-wu-ldnh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedestrian attribute recognition based on multiple time steps attention</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsprl-ji-hhhp-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsprl-ji-hhhp-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixelated Semantic Colorization</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsijcv-zhao-hss-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsijcv-zhao-hss-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB-T Salient Object Detection via Fusing Multi-Level CNN Features</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-zhang-hyzsh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-zhang-hyzsh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic segmentation with hybrid pyramid pooling and stacked pyramid structure</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalsijon-lian-php-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalsijon-lian-php-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking a Look at Small-Scale Pedestrians and Occluded Pedestrians</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-cao-phgl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-cao-phgl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Structure Transfer Machine Theory and Applications</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstip-zhang-ywzhz-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstip-zhang-ywzhz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Generative Adversarial Networks to Break and Protect Text Captchas</title>
+      <link>https://jungonghan.github.io/publication/dblp-journalstissec-ye-tfzfxchw-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-journalstissec-ye-tfzfxchw-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixelated semantic colorization</title>
+      <link>https://jungonghan.github.io/publication/zhao-2019-pixelated/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/zhao-2019-pixelated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabor convolutional networks</title>
+      <link>https://jungonghan.github.io/publication/luan-2018-gabor/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/luan-2018-gabor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised deep video hashing via balanced code for large-scale video retrieval</title>
+      <link>https://jungonghan.github.io/publication/wu-2018-unsupervised/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/wu-2018-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

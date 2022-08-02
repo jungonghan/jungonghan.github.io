@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence | Jungong Han</title>
+    <link>https://jungonghan.github.io/tag/artificial-intelligence/</link>
+      <atom:link href="https://jungonghan.github.io/tag/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Jun 2021 08:42:18 +0100</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/media/icon_hu2f40906c909f9886d723655d7a3eccbd_25938_512x512_fill_lanczos_center_2.png</url>
+      <title>Artificial Intelligence</title>
+      <link>https://jungonghan.github.io/tag/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>Project2</title>
+      <link>https://jungonghan.github.io/project/project2/</link>
+      <pubDate>Sun, 20 Jun 2021 08:42:18 +0100</pubDate>
+      <guid>https://jungonghan.github.io/project/project2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

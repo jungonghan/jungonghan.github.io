@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Jungong Han</title>
+    <link>https://jungonghan.github.io/post/</link>
+      <atom:link href="https://jungonghan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 02:38:06 +0800</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/media/icon_hu2f40906c909f9886d723655d7a3eccbd_25938_512x512_fill_lanczos_center_2.png</url>
+      <title>News</title>
+      <link>https://jungonghan.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Our work entitled Semi-supervised Object Detection via Virtual Category Learning was accepted by ECCV as an oral presentation (acceptance rate: 2.8%)</title>
+      <link>https://jungonghan.github.io/post/202208022/</link>
+      <pubDate>Tue, 02 Aug 2022 02:38:06 +0800</pubDate>
+      <guid>https://jungonghan.github.io/post/202208022/</guid>
+      <description>&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+&lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  &lt;span &gt;
+      Changrui Chen, Kurt Debattista, Jungong Han.&lt;/span&gt;
+  &lt;/span&gt;
+  &lt;a href=&#34;https://arxiv.org/abs/2207.03433&#34; target=&#34;_blank&#34;&gt;Semi-supervised Object Detection via Virtual Category Learning&lt;/a&gt;.
+  ECCV 2022 (oral).
+  &lt;p&gt;
+&lt;/p&gt;  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I was elected as the Fellow of International Association of Pattern Recognition (IAPR)</title>
+      <link>https://jungonghan.github.io/post/202208021/</link>
+      <pubDate>Tue, 02 Aug 2022 02:38:03 +0800</pubDate>
+      <guid>https://jungonghan.github.io/post/202208021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have accepted to become the Associate Editor for IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)</title>
+      <link>https://jungonghan.github.io/post/20220802/</link>
+      <pubDate>Tue, 02 Aug 2022 02:37:56 +0800</pubDate>
+      <guid>https://jungonghan.github.io/post/20220802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three papers got accepted by CVPR 2021</title>
+      <link>https://jungonghan.github.io/post/20210301/</link>
+      <pubDate>Mon, 01 Mar 2021 15:15:37 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20210301/</guid>
+      <description>&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+&lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  &lt;span &gt;
+      Xiaohan Ding, 
+      Xiangyu Zhang, 
+      Jungong Han, 
+      Guiguang Ding.&lt;/span&gt;
+  &lt;/span&gt;
+  &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_Diverse_Branch_Block_Building_a_Convolution_as_an_Inception-Like_Unit_CVPR_2021_paper.pdf&#34; target=&#34;_blank&#34;&gt;Diverse Branch Block: Building a Convolution as an Inception-Like Unit&lt;/a&gt;.
+  CVPR 2021.
+  &lt;p&gt;
+&lt;/p&gt;  
+&lt;/div&gt;
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+&lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  &lt;span &gt;
+      Xiaohan Ding, Xiangyu Zhang, Ningning Ma, Jungong Han, Guiguang Ding, Jian Sun.&lt;/span&gt;
+  &lt;/span&gt;
+  &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_RepVGG_Making_VGG-Style_ConvNets_Great_Again_CVPR_2021_paper.pdf&#34; target=&#34;_blank&#34;&gt;RepVGG: Making VGG-Style ConvNets Great Again&lt;/a&gt;.
+  CVPR 2021.
+  &lt;p&gt;
+&lt;/p&gt;  
+&lt;/div&gt;
+&lt;div class=&#34;pub-list-item&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
+  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+&lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
+  &lt;span &gt;
+      Qiang Zhang, Shenlu Zhao, Yongjiang Luo, Dingwen Zhang, Nianchang Huang, Jungong Han.&lt;/span&gt;
+  &lt;/span&gt;
+  &lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2021/papers/Ding_RepVGG_Making_VGG-Style_ConvNets_Great_Again_CVPR_2021_paper.pdf&#34; target=&#34;_blank&#34;&gt;ABMDRNet: Adaptive-Weighted Bi-Directional Modality Difference Reduction Network for RGB-T Semantic Segmentation&lt;/a&gt;.
+  CVPR 2021.
+  &lt;p&gt;
+&lt;/p&gt;  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I have accepted to become the Associate Editor-in-Chief (AEIC) for Neurocomputing and will be in charge of all Computer Vision submissions</title>
+      <link>https://jungonghan.github.io/post/20210201/</link>
+      <pubDate>Mon, 01 Feb 2021 15:28:30 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20210201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our ICCV extension entitled: Part-Object Relational Visual Saliency is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence</title>
+      <link>https://jungonghan.github.io/post/202101171/</link>
+      <pubDate>Sun, 17 Jan 2021 10:16:02 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/202101171/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have accepted the invitation from the EiC of the Journal of Visual Communication and Image Representation, and will serve as the Associate Editor of JVCI</title>
+      <link>https://jungonghan.github.io/post/20210117/</link>
+      <pubDate>Sun, 17 Jan 2021 10:14:24 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20210117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by IEEE Transactions on Cybernetics</title>
+      <link>https://jungonghan.github.io/post/20210112/</link>
+      <pubDate>Tue, 12 Jan 2021 11:24:58 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20210112/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by ACM Transactions on Multimedia Computing Communications and Applications; One paper was accepted by IEEE Transactions on Cybernetics</title>
+      <link>https://jungonghan.github.io/post/20210103/</link>
+      <pubDate>Sun, 03 Jan 2021 11:26:58 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20210103/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by Artificial Intelligence Review</title>
+      <link>https://jungonghan.github.io/post/202009262/</link>
+      <pubDate>Sat, 26 Sep 2020 11:30:58 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/202009262/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by IEEE Transactions on Image Processing</title>
+      <link>https://jungonghan.github.io/post/202009261/</link>
+      <pubDate>Sat, 26 Sep 2020 11:29:58 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/202009261/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by NeurIPS 2020</title>
+      <link>https://jungonghan.github.io/post/20200926/</link>
+      <pubDate>Sat, 26 Sep 2020 11:29:08 +0100</pubDate>
+      <guid>https://jungonghan.github.io/post/20200926/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

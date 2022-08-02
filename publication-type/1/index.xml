@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Jungong Han</title>
+    <link>https://jungonghan.github.io/publication-type/1/</link>
+      <atom:link href="https://jungonghan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jungonghan.github.io/media/icon_hu2f40906c909f9886d723655d7a3eccbd_25938_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://jungonghan.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>BidNet: Binocular Image Dehazing Without Explicit Disparity Estimation</title>
+      <link>https://jungonghan.github.io/publication/dblp-confcvpr-pang-nxhl-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confcvpr-pang-nxhl-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BidNet: Binocular image dehazing without explicit disparity estimation</title>
+      <link>https://jungonghan.github.io/publication/pang-2020-bidnet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/pang-2020-bidnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Episode-Based Prototype Generating Network for Zero-Shot Learning</title>
+      <link>https://jungonghan.github.io/publication/dblp-confcvpr-yu-jhz-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confcvpr-yu-jhz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-Cost Salient Object Detection with Adversarial-Paced Learning</title>
+      <link>https://jungonghan.github.io/publication/dblp-confnips-zhang-th-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confnips-zhang-th-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Transfer Learning with Weighted Instance-Correspondence Data</title>
+      <link>https://jungonghan.github.io/publication/dblp-confaaai-he-jdghzz-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confaaai-he-jdghzz-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMRAM: Iterative Matching With Recurrent Attention Memory for Cross-Modal Image-Text Retrieval</title>
+      <link>https://jungonghan.github.io/publication/dblp-confcvpr-chen-dlllh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confcvpr-chen-dlllh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-Tailed Classification</title>
+      <link>https://jungonghan.github.io/publication/dblp-confeccv-xiang-dh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confeccv-xiang-dh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from multiple experts: Self-paced knowledge distillation for long-tailed classification</title>
+      <link>https://jungonghan.github.io/publication/xiang-2020-learning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/xiang-2020-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAS-Count: Counting-by-Density with Neural Architecture Search</title>
+      <link>https://jungonghan.github.io/publication/dblp-confeccv-hu-jlzhcd-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confeccv-hu-jlzhcd-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shallow Feature Based Dense Attention Network for Crowd Counting</title>
+      <link>https://jungonghan.github.io/publication/dblp-confaaai-miao-ldh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/dblp-confaaai-miao-ldh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employing deep part-object relationships for salient object detection</title>
+      <link>https://jungonghan.github.io/publication/liu-2019-employing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/liu-2019-employing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global sparse momentum sgd for pruning very deep neural networks</title>
+      <link>https://jungonghan.github.io/publication/ding-2019-global/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jungonghan.github.io/publication/ding-2019-global/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
