@@ -5,12 +5,20 @@
     <link>https://jungonghan.github.io/post/</link>
       <atom:link href="https://jungonghan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 02:38:06 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2022 08:36:24 +0800</lastBuildDate>
     <image>
       <url>https://jungonghan.github.io/media/icon_hu2f40906c909f9886d723655d7a3eccbd_25938_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://jungonghan.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>I am humbled to receive the Best Editor Award from the Journal of Visual Communication and Image Representation</title>
+      <link>https://jungonghan.github.io/post/20221003/</link>
+      <pubDate>Mon, 03 Oct 2022 08:36:24 +0800</pubDate>
+      <guid>https://jungonghan.github.io/post/20221003/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Our work entitled Semi-supervised Object Detection via Virtual Category Learning was accepted by ECCV as an oral presentation (acceptance rate: 2.8%)</title>
