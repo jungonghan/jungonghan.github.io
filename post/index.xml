@@ -5,12 +5,20 @@
     <link>https://jungonghan.github.io/post/</link>
       <atom:link href="https://jungonghan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jan 2024 22:33:23 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jan 2024 19:38:15 +0800</lastBuildDate>
     <image>
       <url>https://jungonghan.github.io/media/icon_hu2f40906c909f9886d723655d7a3eccbd_25938_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://jungonghan.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>I was appointed as an Associate Editor for IEEE Transactions on Multimedia, effective from February 1, 2024</title>
+      <link>https://jungonghan.github.io/post/20240131/</link>
+      <pubDate>Wed, 31 Jan 2024 19:38:15 +0800</pubDate>
+      <guid>https://jungonghan.github.io/post/20240131/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>I was appointed as the Tutorial Co-Chair of ACM Multimedia 2024 in Melbourne</title>
